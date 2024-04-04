@@ -1,4 +1,4 @@
-## Scrape Static and Dynamic
+## Scrape static and dynamic sites
 https://reintech.io/blog/building-web-scrapers-go-colly
 
     go mod init go-scrape
