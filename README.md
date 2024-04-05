@@ -6,6 +6,11 @@ The absolute basics of Go.
 
 https://www.youtube.com/watch?v=YzLrWHZa-Kc&list=PLff8KIz7hPNLZRDk4RoPi0nHxoEzJWg_a
 
+The absolute everything of Go.
+
+https://www.digitalocean.com/community/tutorial-series/how-to-code-in-go
+
+
 ### GO-SCRAPE 
 Scrape static and dynamic pages using Go concurrency.
 
