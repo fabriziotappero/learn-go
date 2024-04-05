@@ -1,4 +1,8 @@
-## Scrape static and dynamic sites
+Some curated material to learn Go.
+<img align="right" width="200" src="gopher.png">
+
+
+### Scrape static and dynamic sites
 https://reintech.io/blog/building-web-scrapers-go-colly
 
     go mod init go-scrape
